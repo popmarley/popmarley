@@ -2,8 +2,7 @@
 
 # 👨‍💻 Kısaca: Kendi projelerimi oluşturarak yazılım geliştirme becerilerimi geliştirmeyi hedefliyorum.
 
-## 🌐 Sosyal Medya Hesaplarım: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyinozguven)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyinozguven) 
+## 🌐 Sosyal Medya Hesaplarım: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyinozguven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyinozguven) 
 
 ## ✍️ Geliştirici Alıntısı
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
