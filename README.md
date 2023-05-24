@@ -1,20 +1,21 @@
 [![](https://visitcount.itsvg.in/api?id=popmarley&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👨‍💻 Hakkımda
-Kendi projelerimi oluşturarak yazılım geliştirme becerilerimi geliştirmeyi hedefliyorum.
+# 👨‍💻 Kısaca: Kendi projelerimi oluşturarak yazılım geliştirme becerilerimi geliştirmeyi hedefliyorum.
 
-## 🌐 Sosyal Medya Hesaplarım
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyinozguven)
+## 🌐 Sosyal Medya Hesaplarım: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyinozguven)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huseyinozguven) 
 
 ## ✍️ Geliştirici Alıntısı
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 📊 GitHub İstatistikleri
+# 📊 GitHub İstatistiklerim
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-# 🔥 GitHub Serim İstatistikleri
+# 🔥 GitHub Seri İstatistiklerim
 ![GitHub Serim İstatistikleri](https://github-readme-streak-stats.herokuapp.com/?user=popmarley&theme=radical&hide_border=false)
+
+# 📚 GitHub En Çok Kullandığım Diller
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Teknik Bilgilerim
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
