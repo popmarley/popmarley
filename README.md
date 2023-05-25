@@ -7,14 +7,14 @@
 ## ✍️ Geliştirici Alıntısı
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 📊 GitHub İstatistiklerim
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<!-- # 📊 GitHub İstatistiklerim
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false) -->
 
 # 🔥 GitHub Seri İstatistiklerim
 ![GitHub Serim İstatistikleri](https://github-readme-streak-stats.herokuapp.com/?user=popmarley&theme=radical&hide_border=false)
 
-# 📚 GitHub En Çok Kullandığım Diller
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--# 📚 GitHub En Çok Kullandığım Diller
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=popmarley&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 # 💻 Teknik Bilgilerim
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
