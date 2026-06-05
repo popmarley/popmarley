@@ -1,5 +1,3 @@
-# Hüseyin Özgüven
-
 Merhaba, ben Hüseyin. GitHub'da **popmarley** kullanıcı adıyla; WordPress/WooCommerce eklentileri, Windows masaüstü araçları, otomasyon sistemleri ve günlük işleri kolaylaştıran küçük ama kullanışlı yazılım projeleri geliştiriyorum.
 
 Odak noktam; **sade çalışan, gerçek bir ihtiyacı çözen, kullanıcı tarafında karmaşa oluşturmayan ve geliştirilebilir yapıda kalan yazılımlar** üretmek.
