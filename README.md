@@ -86,7 +86,7 @@ Odak noktam; **sade çalışan, gerçek bir ihtiyacı çözen, kullanıcı taraf
 
 ## 🤝 İletişim
 
-Projelerim, geliştirmelerim veya iş birliği fikirleri için GitHub üzerinden bana ulaşabilirsiniz.
+Projelerim, geliştirmelerim veya iş birliği fikirleri için sosyal medya hesaplarım üzerinden bana ulaşabilirsiniz.
 
 [![GitHub](https://img.shields.io/badge/GitHub-popmarley-181717?style=flat-square\&logo=github)](https://github.com/popmarley)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hüseyin%20Özgüven-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/huseyinozguven)
