@@ -84,14 +84,6 @@ Odak noktam; **sade çalışan, gerçek bir ihtiyacı çözen, kullanıcı taraf
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popmarley\&show_icons=true\&theme=default\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popmarley\&layout=compact\&hide_border=true)
-
----
-
 ## 🤝 İletişim
 
 Projelerim, geliştirmelerim veya iş birliği fikirleri için GitHub üzerinden bana ulaşabilirsiniz.
